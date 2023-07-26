@@ -5,12 +5,9 @@ The Blockchain-Attack-Vectors repository acts as an Open Directory for the Web3 
 This repo is a work in progress, and we invite contributors from the Web3 space to help us design a framework that is a go-to stop for budding Web3 enthusiasts and security researchers.
 
 📩 **Join our community here:**
-
-Website: https://www.immunebytes.com/
-
-Twitter: https://twitter.com/ImmuneBytes
-
-LinkedIn: https://www.linkedin.com/company/immunebytes/mycompany/ 
+- Website: https://www.immunebytes.com/
+- Twitter: https://twitter.com/ImmuneBytes
+- LinkedIn: https://www.linkedin.com/company/immunebytes/mycompany/ 
 
 ## 🎯 Aim
 
@@ -27,7 +24,7 @@ LinkedIn: https://www.linkedin.com/company/immunebytes/mycompany/
 ## ⏩ How Can You Contribute?
 
 - Explore the catalogue and get an understanding of how the framework has been designed.
-- If you think something is missing, create a new fork of this repo and get started.
+- If you think something is missing, *create a new fork* of this repo and get started.
 - Pick a category and make your submission for publication.
 - Once reviewed, the attack vector will be published on the repo. 🚀
 - You can also let us know if you find any discrepancies or a need for change in the existing content.
