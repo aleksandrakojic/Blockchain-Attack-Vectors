@@ -23,8 +23,7 @@ Following are the factors which identify a transaction attracting adversaries to
 6. **Impact**: Depending on the context, the front-running attack can be used for various purposes, such as frontrunning trades on decentralized exchanges (DEXs), getting ahead of other participants in token sales, or gaining unfair advantages in other blockchain-based applications.
 
 ### A Practical Implementation:
-![image](https://github.com/ImmuneBytes-Security-Audit/Blockchain-Attack-Vectors/assets/113500663/ad3e708d-611a-44ea-bf56-e2f67374cc9e)
-
+![Front-Running-Attack](https://github.com/ImmuneBytes-Security-Audit/Blockchain-Attack-Vectors/assets/113500663/9261432b-e6e9-4f95-bf21-dfa4c390635e)
 
 Let us assume that Bob is swapping ETH for MATIC from a Uniswap pool. Now, an attacker monitors his transaction by scanning the mempool, and when he finds his transaction and he immediately places two orders.
 
