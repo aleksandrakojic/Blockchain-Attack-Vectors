@@ -1,12 +1,12 @@
-# Front-running attack on Blockchains
+#Front-running attack on Blockchains
 
-## **Description:**
+##**Description:**
 
 In traditional stock markets, front-running is a term that refers to the unethical or illegal practice of a financial market participant (such as a broker, trader, or firm) executing trades based on advance knowledge of pending orders from other clients. It involves taking advantage of privileged information to gain a financial advantage at the expense of other market participants.
 
 In the context of a blockchain-based system, front-running refers to a malicious practice where a user or a group of users exploit advanced knowledge of pending transactions to gain an unfair advantage over other participants in the network. This type of attack is prevalent in decentralized blockchain systems, such as Ethereum, where transactions are executed in a specific order based on their arrival time in the mempool.
 
-### How front-running occurs:
+###How front-running occurs:
 
 1. **Pending Transactions:** When a user initiates a transaction on the blockchain, it is broadcasted to the network and added to the mempool. The mempool is a temporary storage area where pending transactions wait to be included in a block by miners (or validators).
 2. **Observing the Mempool**: In a front-running attack, an attacker closely monitors the mempool, looking for specific transactions that indicate a particular action about to take place. For example, they might look for transactions that trigger smart contracts or interact with decentralized applications (DApps).
