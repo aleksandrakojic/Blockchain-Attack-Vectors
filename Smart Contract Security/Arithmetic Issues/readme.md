@@ -78,7 +78,7 @@ The loop uses the **`var`** keyword, which may resolve to a smaller data type li
 ## **Real-World Impact**
 
 - The DAO
-- [BatchOverflow](https://peckshield.medium.com/alert-new-batchoverflow-bug-in-multiple-erc20-smart-contracts-cve-2018-10299-511067db6536) and [ProxyOverflow](https://peckshield.medium.com/integer-overflow-i-e-proxyoverflow-bug-found-in-multiple-erc20-smart-contracts-14fecfba2759) attacks affected multiple tokens.
+- BatchOverflow and ProxyOverflow attacks affected multiple tokens.
 
 ## **Attack Scenarios**
 
