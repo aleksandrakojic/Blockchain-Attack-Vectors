@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: false
----
-
 # Blockchain-Attack-Vectors
 
 The Blockchain-Attack-Vectors directory acts as an Open Directory for the Web3 community, which is built to reference, categorize, and mitigate the various attack vectors on a blockchain. This repo consists of a category-wise explanation of the attack behaviors and prevention strategies for vulnerabilities specific to the Web3 ecosystem.
