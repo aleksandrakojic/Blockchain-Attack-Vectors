@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
 # NFT Security
 
 NFT, or Non-Fungible Token, is a type of digital asset that represents ownership or proof of authenticity of a unique item or piece of content using blockchain technology. Unlike cryptocurrencies like Bitcoin or Ethereum, which are fungible and interchangeable with one another, NFTs are unique and indivisible, making them ideal for representing one-of-a-kind digital or physical assets such as digital art, collectables, music, virtual real estate, and more.
