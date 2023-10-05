@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
 # Network and Node Security
 
 Network and node security are fundamental aspects of blockchain technology, ensuring the integrity, availability, and reliability of the blockchain network.
