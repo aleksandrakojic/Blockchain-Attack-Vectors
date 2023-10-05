@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: false
----
-
 # Bridges
 
 Bridges typically refer to a mechanism or protocol that facilitates the transfer of assets or data between two different blockchain networks. These bridges play a crucial role in achieving interoperability between blockchains, as different blockchain networks may have their own unique rules, consensus mechanisms, and token standards.
