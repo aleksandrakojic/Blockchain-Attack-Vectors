@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
 # Smart Contract Security
 
 Smart contract security refers to the measures and practices employed to ensure the reliability, integrity, and robustness of smart contracts deployed on blockchain platforms. Smart contracts are self-executing codes that automate and enforce agreements or transactions on a blockchain. Ensuring their security is paramount because, once deployed, they are immutable and irreversible, making any vulnerabilities or flaws in the code potentially disastrous.
