@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
 # Phishing
 
 Phishing refers to a deceptive practice where malicious actors attempt to trick individuals into revealing sensitive information, such as private keys or login credentials, by impersonating legitimate blockchain services, platforms, or projects. These phishing attacks are typically carried out through various means, including fake websites, emails, or social media messages that mimic well-known cryptocurrency exchanges, wallets, or Initial Coin Offerings (ICOs).
