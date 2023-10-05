@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
 # OSINT and Blockchain Forensics
 
 OSINT (Open Source Intelligence) is a process of gathering and analyzing information from publicly available sources to gain insights and intelligence about individuals, organizations, or events. It involves collecting data from a variety of sources, such as social media, websites, news articles, and government records, without the need for special access or permissions. OSINT is often used by law enforcement, intelligence agencies, cybersecurity professionals, and researchers to gather valuable information for various purposes, including threat assessment, due diligence, and investigative work.
