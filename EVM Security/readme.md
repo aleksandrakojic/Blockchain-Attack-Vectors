@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
 # EVM Security
 
 EVM stands for Ethereum Virtual Machine. It's the decentralized computer that runs smart contracts on the Ethereum blockchain. The EVM executes code written in Solidity (or other Ethereum-compatible programming languages) and handles the state changes and interactions between smart contracts and users.
