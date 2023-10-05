@@ -8,6 +8,7 @@ This repo is a work in progress, and we invite contributors from the Web3 space 
 
 * Website: [https://www.immunebytes.com/](https://www.immunebytes.com/)
 * Twitter: [https://twitter.com/ImmuneBytes](https://twitter.com/ImmuneBytes)
+* Telegram: [https://t.me/immunebytes](https://t.me/immunebytes)
 * LinkedIn: [https://www.linkedin.com/company/immunebytes/mycompany/](https://www.linkedin.com/company/immunebytes/mycompany/)
 
 ## 🎯 Aim
