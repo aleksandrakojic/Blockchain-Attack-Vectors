@@ -1,8 +1,8 @@
 # Token Supply Manipulation in DeFi Systems
 
-## Overview
+### Overview
 
-Token Supply Manipulation in the context of blockchain refers to the intentional alteration or control of the total supply of a cryptocurrency token by individuals or entities. This manipulation can occur in various ways, with the goal of influencing the token's price, market perception, and other aspects of its value. Token supply manipulation can have significant impacts on the token's ecosystem and the trust of its users. 
+Token Supply Manipulation in the context of blockchain refers to the intentional alteration or control of the total supply of a cryptocurrency token by individuals or entities. This manipulation can occur in various ways, with the goal of influencing the token's price, market perception, and other aspects of its value. Token supply manipulation can have significant impacts on the token's ecosystem and the trust of its users.
 
 **Here are a few common methods and their implications:**
 
@@ -15,7 +15,7 @@ Token Supply Manipulation in the context of blockchain refers to the intentional
 
 Token supply manipulation is generally considered unethical and, in many cases, illegal. It erodes trust in the blockchain project, harms investors and users, and can lead to regulatory intervention. Transparency, fair practices, and regulation can play a role in mitigating token supply manipulation and ensuring the integrity of the blockchain ecosystem.
 
-## Remediation:
+### Remediation:
 
 Remediation strategies are essential to counteract token supply manipulation and promote a healthy, transparent, and trustworthy blockchain ecosystem. Here are some potential remediation approaches to address token supply manipulation:
 
@@ -29,11 +29,11 @@ Remediation strategies are essential to counteract token supply manipulation and
 8. **Reporting Mechanisms**: Providing users with a straightforward way to report suspicious activities or potential token supply manipulation can enable quick responses and investigations.
 9. **Blockchain Analytics**: Utilizing blockchain analytics tools can help identify anomalies and patterns that suggest manipulation, enabling timely interventions.
 
-# The Confido Hack
+## The Confido Hack
 
 One real-world example of token supply manipulation is the case of "Confido" (ticker symbol: CFD). Confido was a cryptocurrency startup that launched an initial coin offering (ICO) to fund the development of a platform for making online purchases with digital currencies. The project gained attention and raised funds from investors during its ICO.
 
-### The Scam:
+#### The Scam:
 
 Shortly after the ICO, the project's founders disappeared, and it became evident that the ICO and the entire project were a scam. The founders had manipulated the token's price and market capitalization through various tactics, leading investors to believe in the project's legitimacy.
 
@@ -45,6 +45,6 @@ Here's how the manipulation unfolded:
 4. **Founder Disappearance**: After the token's price reached a certain level, the founders abruptly disappeared, taking the ICO funds with them. It became clear that the project was a scam, and the token's value plummeted.
 5. **Dumping Tokens**: The founders likely held a significant amount of tokens, which they dumped on the market at the inflated prices, profiting from the manipulation.
 
-### Conclusion:
+#### Conclusion:
 
 The Confido case highlights how manipulation of token supply and market sentiment can be used to deceive investors and make off with their money. The project's sudden collapse led to financial losses for many investors who had believed in the project's promises.

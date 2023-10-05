@@ -4,7 +4,7 @@
 * [Bridges](Bridges/readme.md)
   * [off-chain-components](Bridges/off-chain-components/README.md)
 * [DeFi](DeFi/readme.md)
-  * [Token Supply Manipulation](<DeFi/Token Supply Manipulation/readme.md>)
+  * [Token Supply Manipulation in DeFi Systems](<DeFi/Token Supply Manipulation/readme.md>)
   * [Front-running attack on Blockchains](DeFi/front-running/readme.md)
   * [Governance Risks Associated With Blockchains](DeFi/governance-attacks/readme.md)
   * [Oracle Manipulation Attack on Blockchain](DeFi/oracle-manipulation-attacks/readme.md)
