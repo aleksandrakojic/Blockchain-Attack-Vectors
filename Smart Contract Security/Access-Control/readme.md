@@ -59,7 +59,7 @@ The **`burn`** function is public, allowing any user to burn tokens. An attacker
 
 - Loss of approximately 150,000 ETH (~30M USD at the time) due to [Parity Multi-sig bugs](http://paritytech.io/the-multi-sig-hack-a-postmortem/).
 - [HospoWise](https://etherscan.io/address/0x952aa09109e3ce1a66d41dc806d9024a91dd5684#code) hack led to unauthorized token burning, affecting the token's value and liquidity.
-- [Rubixi](https://blog.ethereum.org/2016/06/19/thinking-smart-contract-security)
+- [Rubixi](https://blog.blockmagnates.com/the-hacking-of-rubixi-smart-contract-23d339213bbe)
 
 ## **Attack Scenarios**
 
